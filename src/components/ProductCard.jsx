@@ -36,4 +36,3 @@ export default function ProductCard({ product, onAddToCart, inCart }) {
   );
 }
 
-//star <= Math.floor(rating)
